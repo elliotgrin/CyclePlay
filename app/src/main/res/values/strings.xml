@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cycle Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="file_1">File 1</string>
+    <string name="file_2">File 2</string>
+    <string name="play">PLAY</string>
+</resources>
